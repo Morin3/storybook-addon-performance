@@ -19,7 +19,7 @@
     "http-server": "^14.1.1",
     "storybook": "^7.0.0",
     "storybook-addon-performance": "workspace:*",
-    "typescript": "^4.9.5",
+    "typescript": "^5.7.2",
     "webpack": "^5.90.0"
   },
   "scripts": {
