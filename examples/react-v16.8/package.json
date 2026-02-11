@@ -20,7 +20,7 @@
     "storybook": "^7.0.0",
     "storybook-addon-performance": "workspace:*",
     "typescript": "^4.9.5",
-    "webpack": "^5.90.0"
+    "webpack": "^5.104.1"
   },
   "scripts": {
     "dev": "pnpm storybook dev --port 9003",
